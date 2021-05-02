@@ -1,6 +1,6 @@
-# Project Closed
+# Project Opened
 
-A Cc Checker by [Reboot13](https://t.me/reboot13)
+A Cc Checker by [Khush](https://t.me/khushmeet1)
 This checker authenticate/charge depends on what type of site you use
 1req= auth & 2req= charge
 #note- 1-req is right now not accepting luminati so this checker is working on Ssl proxies
